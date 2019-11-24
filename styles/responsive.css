@@ -1,5 +1,33 @@
+/* fonts */
+@font-face {
+    font-family: mono-display;
+    src: url('fonts/MajorMonoDisplay-Regular.ttf');
+}
+@font-face {
+    font-family: MerriweatherSans-Regular;
+    src: url('fonts/MerriweatherSans-Regular.ttf');
+}
+@font-face {
+    font-family: MerriweatherSans-Light;
+    src: url('fonts/MerriweatherSans-Light.ttf');
+}
+@font-face {
+    font-family: MerriweatherSans-Bold;
+    src: url('fonts/MerriweatherSans-Bold.ttf');
+}
+@font-face {
+    font-family: LibreBaskerville-Regular;
+    src: url('fonts/LibreBaskerville-Regular.ttf');
+}
+
+
+
+
+
+
 html, body{
     /*overflow-x: hidden;*/
+    font-family
 }
 #wrapper{
     width:100%;
@@ -17,6 +45,13 @@ header{
 h1, h2, h3, h4, h5, h6, p{
     margin:0;
 }
+p{
+    font-family:MerriweatherSans-Light,sans-serif;
+    font-size:0.9rem;
+    word-spacing:0.25rem;
+    margin-top: 5px;
+    margin-bottom: 23px;
+}
 main{
     padding: 30px 0;
 }
@@ -31,6 +66,12 @@ h1{
     text-align:center;
     text-transform: uppercase;
     padding:50px 0 10px 0;
+    font-family:mono-display,sans-serif;
+    font-size:3rem;
+}
+h2{
+    font-family: MerriweatherSans-Bold, sans-serif;
+    margin: 10px 0 20px 0;
 }
 #nav-links{
     display:flex;
@@ -39,6 +80,7 @@ h1{
     justify-content:space-around;
     list-style-type: none;
     padding:10px 0;
+    font-family:MerriweatherSans-Light, sans-serif;
     /*background-color:wheat;*/
 }
 #nav-links li{
@@ -100,7 +142,15 @@ h1{
 #uleth-info{
     /*background-color:yellowgreen;*/
 }
-
+footer{
+    background-color:#000;
+    color:white;
+    padding:25px 0;
+}
+footer p{
+    display:block;
+    text-align:center;
+}
 .banner{
     width:100%;
     height:60vh;

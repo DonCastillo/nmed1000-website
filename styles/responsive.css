@@ -191,6 +191,22 @@ background-size:cover;
 background-position:center center;
 }
 
+/*still images*/
+.gallery{
+	flex-direction: row;
+	justify-content:center;
+	text-align:center;
+}
+.thumb{
+	/**/background-color:whitesmoke;
+	height:240px;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin:8px;
+	padding:0px;
+}
+
 
 
 @media (max-width: 1199.98px) { }
@@ -207,6 +223,9 @@ background-position:center center;
     #nav-links .fadeInUp{
         animation-name: fadeIn !important;
     }
+	#nav-links li{
+		padding:7px;
+	}
     #menu-icon{
         display:block;
         float:right;
@@ -230,6 +249,7 @@ background-position:center center;
         flex-direction: row;
         align-items: center;
     }
+
 
 
 }

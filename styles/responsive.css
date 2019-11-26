@@ -93,10 +93,16 @@ h2{
 .menu-vertical li{
     padding: 5px!important;
 }
+.active{
+    background-color:#000000;
+    color:#fff;
+}
 nav{
 
 }
+#nav-links-hor,
 #nav-links{
+    display:block;
     display:flex;
     flex-direction:row;
     flex-wrap: nowrap;
@@ -106,6 +112,8 @@ nav{
     font-family:MerriweatherSans-Light, sans-serif;
     /*background-color:wheat;*/
 }
+
+#nav-links-hor li,
 #nav-links li{
     width:100%;
     height:100%;
@@ -193,8 +201,11 @@ background-position:center center;
     #text-overlay:before{
         /*background-color: unset;*/
     }
-    #nav-links{
+    #nav-links, #nav-links-hor{
         display:none;
+    }
+    #nav-links .fadeInUp{
+        animation-name: fadeIn !important;
     }
     #menu-icon{
         display:block;
@@ -219,6 +230,7 @@ background-position:center center;
         flex-direction: row;
         align-items: center;
     }
+
 
 }
 
@@ -265,5 +277,11 @@ background-position:center center;
 @media (min-width: 768px) {  }
 
 @media (min-width: 992px) {  }
+
+@media (min-width: 990px) {
+    #nav-links{
+        display:none!important;
+    }
+}
 
 @media (min-width: 1200px) { }

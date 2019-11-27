@@ -186,11 +186,11 @@ text-align:center;
 }
 
 .banner{
-width:100%;
-height:60vh;
-background-repeat: no-repeat;
-background-size:cover;
-background-position:center center;
+    width:100%;
+    height:60vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center center;
 }
 
 /*still images*/
@@ -234,10 +234,31 @@ background-position:center center;
 }
 .src-img{
     border: 8px solid white !important;
-
 }
 
+/**/
+.url-card{
+    margin:30px 20px;
+    padding:0px;
+    height:200px;
+    max-width:315px;
+}
 
+.logo{
+    background-color:#fff;
+    height:20%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.description{
+    background-color:#fff;
+}
+.description p{
+    font-size:0.75rem;
+    text-align: justify;
+}
 
 @media (max-width: 1199.98px) { }
 

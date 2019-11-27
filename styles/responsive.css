@@ -196,6 +196,14 @@ background-position:center center;
 	flex-direction: row;
 	justify-content:center;
 	text-align:center;
+    padding-top:30px;
+}
+.gallery p{
+    margin-top:23px;
+}
+.artwork-title{
+    text-align:left;
+    padding: 0;
 }
 .thumb{
 	/*background-color:whitesmoke;*/
@@ -206,9 +214,21 @@ background-position:center center;
 	margin:8px;
 	padding:0px;
 	max-width:315px;
-    border: 8px solid white;
+
+}
+.border{
+    border: 8px solid white !important;
     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.2);
 }
+.large-image{
+    /*max-height:100%;*/
+    padding:0;
+    margin:0;
+    border: 16px solid white !important;
+    object-position: center center;
+    object-fit: contain;
+}
+
 
 
 

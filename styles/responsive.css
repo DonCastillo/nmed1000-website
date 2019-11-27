@@ -205,6 +205,7 @@ background-position:center center;
     text-align:left;
     padding: 0;
 }
+
 .thumb{
 	/*background-color:whitesmoke;*/
 	height:240px;
@@ -220,6 +221,7 @@ background-position:center center;
     border: 8px solid white !important;
     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.2);
 }
+.src-img,
 .large-image{
     /*max-height:100%;*/
     padding:0;
@@ -228,7 +230,10 @@ background-position:center center;
     object-position: center center;
     object-fit: contain;
 }
+.src-img{
+    border: 8px solid white !important;
 
+}
 
 
 
@@ -298,6 +303,9 @@ background-position:center center;
 
 
 @media (max-width: 575.98px) {
+    .src-img {
+        max-width: 290px;
+    }
 }
 
 @media(max-width:500px){

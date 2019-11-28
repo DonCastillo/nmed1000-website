@@ -44,6 +44,16 @@ header{
 h1, h2, h3, h4, h5, h6, p{
     margin:0;
 }
+figure{
+    position:relative;
+}
+figcaption{
+    position: absolute;
+    font-size: 0.8rem;
+    bottom: -8px;
+    right: 0px;
+
+}
 p{
     font-family:MerriweatherSans-Light,sans-serif;
     font-size:0.9rem;
@@ -75,7 +85,7 @@ h1{
 }
 h2{
     font-family: MerriweatherSans-Bold, sans-serif;
-    margin: 10px 0 20px 0;
+    margin: 35px 0 20px 0;
 }
 #menu-icon{
     display:none;
@@ -188,9 +198,13 @@ text-align:center;
 .banner{
     width:100%;
     height:60vh;
+    max-height: 500px;
     background-repeat: no-repeat;
     background-size:cover;
     background-position:center center;
+}
+.parallax{
+    background-attachment: fixed;
 }
 
 /*still images*/
@@ -198,14 +212,15 @@ text-align:center;
 	flex-direction: row;
 	justify-content:center;
 	text-align:center;
-    padding-top:30px;
+    padding: 30px 15px;
 }
 .gallery p{
-    margin-top:23px;
+    margin: 23px 0 10px 0;
 }
 .artwork-title{
     text-align:left;
     padding: 0;
+    width:100%;
 }
 
 .thumb{
@@ -227,7 +242,7 @@ text-align:center;
 .large-image{
     /*max-height:100%;*/
     padding:0;
-    margin:0;
+    margin:20px 0;;
     border: 16px solid white !important;
     object-position: center center;
     object-fit: contain;
@@ -284,6 +299,18 @@ text-align:center;
         width:10%;
         text-align: right;
     }
+    h2{
+        margin: 20px 0 8px 0;
+    }
+    .large-image{
+        margin: 7px 0;
+    }
+    .gallery p{
+        margin:10px 0 10px 0;
+    }
+    .border{
+        border: 8px solid white !important;
+    }
     header{
         padding: 0 25px;
     }
@@ -293,6 +320,9 @@ text-align:center;
         font-size:2.5rem;
         width: 90%;
         text-align: left;
+    }
+    .banner{
+        max-height:275px;
     }
     .flex{
         display:flex;

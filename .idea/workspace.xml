@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9001df99-11cb-460f-b028-c0b4ec114ed2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/abstract-business-code-coding-276452.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chrome_6ljnxRYJKu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chrome_F6ZEkmgKJV.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chrome_buXrEpcT35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chrome_jGVGskc3FD.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/movingImages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter.html" beforeDir="false" afterPath="$PROJECT_DIR$/filter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotLinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/hotLinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaleidoscope-narrative.html" beforeDir="false" afterPath="$PROJECT_DIR$/kaleidoscope-narrative.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mondrian.html" beforeDir="false" afterPath="$PROJECT_DIR$/mondrian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motherboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/motherboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myPassion.html" beforeDir="false" afterPath="$PROJECT_DIR$/myPassion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parthenon.html" beforeDir="false" afterPath="$PROJECT_DIR$/parthenon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinkflower.html" beforeDir="false" afterPath="$PROJECT_DIR$/pinkflower.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stillImages.html" beforeDir="false" afterPath="$PROJECT_DIR$/stillImages.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superimposition.html" beforeDir="false" afterPath="$PROJECT_DIR$/superimposition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uleth.html" beforeDir="false" afterPath="$PROJECT_DIR$/uleth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulethartistic.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulethartistic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yellowflower.html" beforeDir="false" afterPath="$PROJECT_DIR$/yellowflower.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +27,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.50831896">
+    <splitter split-orientation="horizontal" split-proportion="0.8470512">
       <split-first>
         <splitter split-orientation="vertical" split-proportion="0.8840737">
           <split-first>
@@ -25,8 +35,8 @@
               <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/stillImages.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="-7">
-                      <caret line="72" column="149" selection-start-line="64" selection-start-column="18" selection-end-line="72" selection-end-column="149" />
+                    <state relative-caret-position="608">
+                      <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
                       <folding>
                         <element signature="n#style#0;n#a#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                       </folding>
@@ -35,21 +45,55 @@
                 </entry>
               </file>
               <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/hotLinks.html">
+                <entry file="file://$PROJECT_DIR$/superimposition.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="-7">
-                      <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
-                      <folding>
-                        <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#div#0;n#a#0;n#div#2;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#div#0;n#a#0;n#div#3;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#div#0;n#a#0;n#div#4;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#div#0;n#a#0;n#div#5;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#div#0;n#a#0;n#div#6;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#div#0;n#a#0;n#div#8;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                        <element signature="n#style#0;n#div#0;n#a#0;n#div#9;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                      </folding>
+                    <state relative-caret-position="640">
+                      <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/uleth.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="448">
+                      <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/ulethartistic.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="352">
+                      <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/yellowflower.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="448">
+                      <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/motherboard.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="400">
+                      <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/movingImages.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="480">
+                      <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
                     </state>
                   </provider>
                 </entry>
@@ -57,21 +101,30 @@
               <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/pinkflower.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="-7">
-                      <caret line="64" column="128" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="128" />
+                    <state relative-caret-position="463">
+                      <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file pinned="false" current-in-tab="true">
+              <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/myPassion.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="303">
-                      <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="28" />
+                    <state relative-caret-position="390">
+                      <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
                       <folding>
                         <element signature="n#style#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                         <element signature="n#style#0;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                       </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/parthenon.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="399">
+                      <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
                     </state>
                   </provider>
                 </entry>
@@ -98,8 +151,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles/responsive.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="537">
-                  <caret line="324" column="22" selection-start-line="324" selection-start-column="22" selection-end-line="324" selection-end-column="22" />
+                <state relative-caret-position="489">
+                  <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -129,6 +182,8 @@
       <find>img</find>
       <find>gallery</find>
       <find>banner</find>
+      <find>galler</find>
+      <find>active</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,28 +193,29 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/styles/styles.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
-        <option value="$PROJECT_DIR$/stillImages.html" />
-        <option value="$PROJECT_DIR$/mondrian.html" />
-        <option value="$PROJECT_DIR$/parthenon.html" />
-        <option value="$PROJECT_DIR$/uleth.html" />
-        <option value="$PROJECT_DIR$/yellowflower.html" />
-        <option value="$PROJECT_DIR$/motherboard.html" />
-        <option value="$PROJECT_DIR$/superimposition.html" />
-        <option value="$PROJECT_DIR$/ulethartistic.html" />
-        <option value="$PROJECT_DIR$/filter.html" />
-        <option value="$PROJECT_DIR$/pinkflower.html" />
-        <option value="$PROJECT_DIR$/kaleidoscope-narrative.html" />
-        <option value="$PROJECT_DIR$/hotLinks.html" />
-        <option value="$PROJECT_DIR$/myPassion.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/styles/responsive.css" />
+        <option value="$PROJECT_DIR$/filter.html" />
+        <option value="$PROJECT_DIR$/hotLinks.html" />
+        <option value="$PROJECT_DIR$/kaleidoscope-narrative.html" />
+        <option value="$PROJECT_DIR$/mondrian.html" />
+        <option value="$PROJECT_DIR$/motherboard.html" />
+        <option value="$PROJECT_DIR$/movingImages.html" />
+        <option value="$PROJECT_DIR$/myPassion.html" />
+        <option value="$PROJECT_DIR$/parthenon.html" />
+        <option value="$PROJECT_DIR$/pinkflower.html" />
+        <option value="$PROJECT_DIR$/stillImages.html" />
+        <option value="$PROJECT_DIR$/superimposition.html" />
+        <option value="$PROJECT_DIR$/uleth.html" />
+        <option value="$PROJECT_DIR$/ulethartistic.html" />
+        <option value="$PROJECT_DIR$/yellowflower.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1855" />
-    <option name="y" value="-9" />
+    <option name="x" value="1759" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="882" />
   </component>
@@ -197,12 +253,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\University of Lethbridge Files\NMED 1000\dc29finalWebsite\styles" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\University of Lethbridge Files\NMED 1000\dc29finalWebsite" />
       <recent name="D:\University of Lethbridge Files\NMED 1000\dc29finalWebsite\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\University of Lethbridge Files\NMED 1000\dc29finalWebsite\styles" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -230,18 +286,20 @@
       <workItem from="1574562018639" duration="6006000" />
       <workItem from="1574573552276" duration="20252000" />
       <workItem from="1574656897759" duration="55291000" />
-      <workItem from="1574895160807" duration="9671000" />
+      <workItem from="1574895160807" duration="10283000" />
+      <workItem from="1574999259550" duration="2065000" />
+      <workItem from="1575091491785" duration="9728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91220000" />
+    <option name="totallyTimeSpent" value="103625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07089552" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17750533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -275,79 +333,6 @@
     <entry file="file://$PROJECT_DIR$/images/fav-icon.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-353">
-          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parthenon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="64" column="83" selection-start-line="64" selection-start-column="83" selection-end-line="64" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uleth.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="64" column="81" selection-start-line="64" selection-start-column="81" selection-end-line="64" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yellowflower.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="64" column="75" selection-start-line="64" selection-start-column="75" selection-end-line="64" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/motherboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="64" column="73" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/superimposition.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="64" column="78" selection-start-line="64" selection-start-column="78" selection-end-line="64" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mondrian.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="51" selection-start-line="51" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ulethartistic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="64" column="76" selection-start-line="64" selection-start-column="76" selection-end-line="64" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="65" column="250" selection-start-line="65" selection-start-column="250" selection-end-line="65" selection-end-column="250" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stillImages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="72" column="149" selection-start-line="64" selection-start-column="18" selection-end-line="72" selection-end-column="149" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -355,24 +340,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kaleidoscope-narrative.html">
+    <entry file="file://$PROJECT_DIR$/styles/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="69" column="316" selection-start-line="69" selection-start-column="316" selection-end-line="69" selection-end-column="316" />
+        <state relative-caret-position="489">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinkflower.html">
+    <entry file="file://$PROJECT_DIR$/filter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="64" column="128" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="128" />
+        <state relative-caret-position="640">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hotLinks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+        <state relative-caret-position="447">
+          <caret line="171" column="21" selection-start-line="171" selection-start-column="21" selection-end-line="171" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -387,10 +372,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="113" column="21" lean-forward="true" selection-start-line="103" selection-start-column="12" selection-end-line="113" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#article#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#figure#0;n#article#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figcaption#0;n#figure#0;n#article#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaleidoscope-narrative.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mondrian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motherboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movingImages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myPassion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="28" />
+        <state relative-caret-position="390">
+          <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -398,10 +423,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/responsive.css">
+    <entry file="file://$PROJECT_DIR$/parthenon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="324" column="22" selection-start-line="324" selection-start-column="22" selection-end-line="324" selection-end-column="22" />
+        <state relative-caret-position="399">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinkflower.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stillImages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superimposition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uleth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ulethartistic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yellowflower.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
         </state>
       </provider>
     </entry>

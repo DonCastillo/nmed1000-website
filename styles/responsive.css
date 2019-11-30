@@ -232,6 +232,9 @@ text-align:center;
 .gallery-photos{
     padding: 30px 3px;
 }
+.gallery-photos a:hover{
+    border-color: hsla(204, 72%, 21%, 0.8)!important;
+}
 
 .gallery p{
     margin: 23px 0 10px 0;

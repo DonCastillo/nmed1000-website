@@ -33,20 +33,27 @@ html, body{
     max-width:1000px;
     margin:0 auto;
 }
-a:hover, a:active,
-a{
-    text-decoration: none;
-    color:unset;
-}
-article a, aside a,
-article a:hover,
-aside a:hover,
-aside a:active,
-article a:active
-{
+
+
+a,
+a:hover,
+a:active{
     text-decoration: underline;
     font-weight:bold;
+    color:unset;
 }
+
+#nav-links-hor li a,
+#nav-links li a,
+.footer-links a
+{
+    text-decoration: none;
+    color:unset;
+    font-weight:unset;
+}
+
+
+
 header{
     padding-bottom:0;
 }
@@ -238,6 +245,7 @@ text-align:center;
 
 .gallery p{
     margin: 23px 0 10px 0;
+    padding:0;
 }
 .artwork-title{
     text-align:left;

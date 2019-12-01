@@ -64,9 +64,9 @@ figure{
     position:relative;
 }
 figcaption{
-    position: absolute;
+    position: relative;
     font-size: 0.8rem;
-    bottom: -8px;
+    bottom: 11px;
     right: 0px;
 
 }
